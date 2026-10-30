@@ -1,0 +1,22 @@
+{
+  "wheel_id": 549,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-106",
+  "project": "mortgage-brokers-newcastle-what-to-expect-bba774453bbcdcebfd357",
+  "parent_t1_ref": "newcastlehomeloanbroker-152",
+  "node_role": "feeder",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers newcastle what to expect",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-newcastle-what-to-expect-bba774453bbcdcebfd357/",
+  "tier": "T2",
+  "writeback_nonce": "dc7139f4b0ffc874",
+  "links": [
+    {
+      "target_url": "http://mortgage-brokers-newcastle-1104a8fe1ff0651df9769ebcedb39a970627.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Mortgage Brokers Newcastle: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
